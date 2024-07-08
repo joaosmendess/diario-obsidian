@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "32602506d6953e10",
+    "type": "split",
+    "children": [
+      {
+        "id": "b298fdcac04f3283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c7461b0846ff4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QUICKSTART CORE/Componente Callback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed140e78150d1fe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb08a40aafaaaff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19886ee09eac74c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52cf06fe75d7fe5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:Untitled path:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e80db2b21167b8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "d0260d0ea7135147",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0b70e6de212c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70a2731d31cf6fb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QUICKSTART CORE/Componente Callback.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccae9f03de33a254",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QUICKSTART CORE/Componente Callback.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "552680f8385ec66a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18e67eb0ddeb67d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QUICKSTART CORE/Componente Callback.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7c7461b0846ff4f9",
+  "lastOpenFiles": [
+    "diario-de-desenvolvimento/Captura de tela de 2024-07-08 13-36-43.png",
+    "Estrutura react OFM.md",
+    "estrutura de projeto/Estrutura react OFM.md",
+    "estrutura de projeto",
+    "Diário de Desenvolvimento - 8 de julho de 2024.md",
+    "diario-de-desenvolvimento/Diário de Desenvolvimento - 8 de julho de 2024.md",
+    "diario-de-desenvolvimento/Diário de Desenvolvimento - 5 de Julho de 2024.md",
+    "diario-de-desenvolvimento/Diário de Desenvolvimento - 4 de Julho de 2024.md",
+    "diario-de-desenvolvimento/Captura de tela de 2024-07-08 13-36-57.png",
+    "diario-de-desenvolvimento",
+    "QUICKSTART CORE/Componente Callback.md",
+    "Captura de tela de 2024-07-08 13-36-57.png",
+    "Captura de tela de 2024-07-08 13-36-43.png",
+    "Diário de Desenvolvimento - 4 de Julho de 2024.md",
+    "QUICKSTART CORE/Componente lista de usuários.md",
+    "Diário de Desenvolvimento - 5 de Julho de 2024.md",
+    "QUICKSTART CORE",
+    "Untitled",
+    "output/Diário de Desenvolvimento - 5 de Julho de 2024.md",
+    "output/attachment",
+    "output",
+    "Untitled.canvas"
+  ]
+}
