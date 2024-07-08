@@ -1,9 +1,13 @@
 
 ## Contexto e Objetivos
 
-Implementamos mudanças de design na página de login do Quickstart, incluindo a adição de um vídeo de fundo, o uso de componentes do Material UI para estilização e a implementação de um modal de carregamento para o login SSO. Essas mudanças foram feitas para proporcionar uma experiência de login mais moderna e atrativa para os usuários.
+Implementamos mudanças de design na página de Quickstart e de Login SSO, incluindo a adição de um vídeo de fundo, o uso de componentes do Material UI para estilização e a implementação de um modal de carregamento para o login SSO. Essas mudanças foram feitas para proporcionar uma experiência de login mais moderna e atrativa para os usuários.
 
 ![[Captura de tela de 2024-07-08 13-36-43.png]]
+
+![[Captura de tela de 2024-07-08 16-24-14.png]]
+
+![[Captura de tela de 2024-07-08 16-24-42.png]]
 
 ![[Captura de tela de 2024-07-08 13-36-57.png]]
 #### 1. Importação de Componentes e Estilos
