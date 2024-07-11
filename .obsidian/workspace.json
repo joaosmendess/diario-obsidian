@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diario-de-desenvolvimento/Diário de Desenvolvimento - 8 de julho de 2024.md",
+                "file": "diario-de-desenvolvimento/8 de julho de 2024 - Diário de Desenvolvimento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "581ce1d062c668f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diario-de-desenvolvimento/10 de julho de 2024 - Diário de Desenvolvimento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "359c68428824e0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Checklist - 11 de Julho de 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24bf782876942376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diario-de-desenvolvimento/Diário de Desenvolvimento - 8 de julho de 2024.md",
+                "file": "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diario-de-desenvolvimento/Diário de Desenvolvimento - 8 de julho de 2024.md",
+                "file": "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diario-de-desenvolvimento/Diário de Desenvolvimento - 8 de julho de 2024.md"
+                "file": "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md"
               }
             }
           }
@@ -146,20 +183,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c7461b0846ff4f9",
+  "active": "24bf782876942376",
   "lastOpenFiles": [
+    "diario-de-desenvolvimento/10 de julho de 2024 - Diário de Desenvolvimento.md",
+    "diario-de-desenvolvimento/Captura de tela de 2024-07-08 13-36-57.png",
+    "diario-de-desenvolvimento/Captura de tela de 2024-07-08 13-36-43.png",
+    "diario-de-desenvolvimento/8 de julho de 2024 - Diário de Desenvolvimento.md",
+    "diario-de-desenvolvimento/5 de Julho de 2024 - Diário de Desenvolvimento.md",
+    "diario-de-desenvolvimento/4 de Julho de 2024 -  Diário de Desenvolvimento -.md",
+    "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
+    "Checklist - 11 de Julho de 2024.md",
+    "Backend fraco checklist.md",
     "Captura de tela de 2024-07-08 16-24-42.png",
     "Captura de tela de 2024-07-08 16-24-14.png",
-    "diario-de-desenvolvimento/Diário de Desenvolvimento - 8 de julho de 2024.md",
     "QUICKSTART CORE/Componente Callback.md",
-    "diario-de-desenvolvimento/Captura de tela de 2024-07-08 13-36-43.png",
     "Estrutura react OFM.md",
     "estrutura de projeto/Estrutura react OFM.md",
     "estrutura de projeto",
     "Diário de Desenvolvimento - 8 de julho de 2024.md",
-    "diario-de-desenvolvimento/Diário de Desenvolvimento - 5 de Julho de 2024.md",
-    "diario-de-desenvolvimento/Diário de Desenvolvimento - 4 de Julho de 2024.md",
-    "diario-de-desenvolvimento/Captura de tela de 2024-07-08 13-36-57.png",
     "diario-de-desenvolvimento",
     "Captura de tela de 2024-07-08 13-36-57.png",
     "Captura de tela de 2024-07-08 13-36-43.png",
