@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
+                "file": "Checklist - 11 de Julho de 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c61d87ac170de009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSO CORE/Login SSO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
+                "file": "SSO CORE/Login SSO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
+                "file": "SSO CORE/Login SSO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md"
+                "file": "SSO CORE/Login SSO.md"
               }
             }
           }
@@ -183,16 +195,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24bf782876942376",
+  "active": "c61d87ac170de009",
   "lastOpenFiles": [
+    "SSO CORE/CallbackPage Component.md",
+    "SSO CORE/Login SSO.md",
+    "diario-de-desenvolvimento/12 de Julho de 2024 - Diário de Desenvolvimento.md",
+    "SSO CORE",
+    "diario-de-desenvolvimento/Fluxo de Login e Seleção de Produto - 12 de Julho de 2024.md",
+    "Checklist - 11 de Julho de 2024.md",
+    "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
     "diario-de-desenvolvimento/10 de julho de 2024 - Diário de Desenvolvimento.md",
     "diario-de-desenvolvimento/Captura de tela de 2024-07-08 13-36-57.png",
     "diario-de-desenvolvimento/Captura de tela de 2024-07-08 13-36-43.png",
     "diario-de-desenvolvimento/8 de julho de 2024 - Diário de Desenvolvimento.md",
     "diario-de-desenvolvimento/5 de Julho de 2024 - Diário de Desenvolvimento.md",
     "diario-de-desenvolvimento/4 de Julho de 2024 -  Diário de Desenvolvimento -.md",
-    "diario-de-desenvolvimento/11 de julho de 2024 - Diário de Desenvolvimento.md",
-    "Checklist - 11 de Julho de 2024.md",
     "Backend fraco checklist.md",
     "Captura de tela de 2024-07-08 16-24-42.png",
     "Captura de tela de 2024-07-08 16-24-14.png",
@@ -208,7 +225,6 @@
     "QUICKSTART CORE/Componente lista de usuários.md",
     "Diário de Desenvolvimento - 5 de Julho de 2024.md",
     "QUICKSTART CORE",
-    "Untitled",
     "output/Diário de Desenvolvimento - 5 de Julho de 2024.md",
     "output/attachment",
     "output",
